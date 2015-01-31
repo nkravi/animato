@@ -7,7 +7,7 @@
 >and worker. size of SQS queue to scale up and fown the workers. dynamoDB to avoid duplicate
 >message from sqs. S3 to store photos
 
-[architecture diagram]
+###Architecture diagram
 ![drawing](https://github.com/nravi89/animato/blob/master/architecture.JPG)
 
 ###Files
@@ -19,5 +19,5 @@
 * worker        contains worker code
 
 
-[architecture diagram]:https://github.com/nravi89/animato/blob/master/architecture.JPG
+
 
