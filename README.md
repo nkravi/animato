@@ -2,7 +2,7 @@
 
 ##fully scalable framework to make videos out of photos
 
->In this project we have created an application to convert photos to video.
+>In this project we have developed an application to convert photos to video.
 >we have used flask framework to create our webserver. ec2 instances to launch web-server
 >and worker. size of SQS queue to scale up and fown the workers. dynamoDB to avoid duplicate
 >message from sqs. S3 to store photos
