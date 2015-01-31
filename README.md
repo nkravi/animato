@@ -8,6 +8,7 @@
 >message from sqs. S3 to store photos
 
 [architecture diagram]
+![drawing](https://github.com/nravi89/animato/blob/master/architecture.JPG)
 
 ###Files
 
